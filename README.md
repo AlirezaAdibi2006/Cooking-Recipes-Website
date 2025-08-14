@@ -23,14 +23,16 @@ This website is a complete resource for learning recipes of cakes, pastries, and
 ## 💻 ویژگی‌ها | Features
 
 - صفحات چندگانه: صفحه اصلی، آموزش‌ها، درباره ما و تماس با ما  
-- طراحی ریسپانسیو با HTML و CSS  
+- طراحی مناسب برای دسکتاپ با HTML و CSS (نسخه موبایل هنوز آماده نیست)
+- پروژه با استفاده از CSS Float پیاده‌سازی شده و پروژه‌های بعدی با CSS Grid و Flexbox خواهند بود  
 - گالری تصاویر و پیشنهادات جذاب برای کاربران  
 - استفاده از فونت‌های زیبا و خوانا (Vazirmatn)  
 - آیکون‌ها با Font Awesome  
 
 **English:**  
 - Multiple pages: Home, Recipes, About, Contact  
-- Responsive design using HTML & CSS  
+- Desktop-optimized design using HTML & CSS (mobile version not ready yet)
+- Project implemented using CSS Float; next projects will use CSS Grid and Flexbox
 - Image gallery and fun suggestions for users  
 - Beautiful and readable fonts (Vazirmatn)  
 - Icons via Font Awesome  

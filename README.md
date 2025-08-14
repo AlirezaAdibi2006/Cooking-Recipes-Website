@@ -2,7 +2,10 @@
 A simple website showcasing dessert, cake, and dough recipes.
 # 🍰 Cooking Recipes Website | وبسایت آشپزی
 
-![پیش‌نمایش صفحه اصلی](images/mainpage.png)
+
+<img width="1366" height="1410" alt="mainpage" src="https://github.com/user-attachments/assets/f7bf3790-1fd9-4490-9da3-83004109f2b1" />
+
+
 
 
 ---
@@ -34,6 +37,8 @@ This website is a complete resource for learning recipes of cakes, pastries, and
 
 
 ---
+<img width="1366" height="1559" alt="recipe" src="https://github.com/user-attachments/assets/bcb16387-c97b-4ccc-b335-d40f06c2db8b" />
+<img width="1366" height="928" alt="recipe-list" src="https://github.com/user-attachments/assets/95a1c1ed-a877-4be6-9283-b5df7607ece3" />
 
 ---
 ## 🛠️ نصب و اجرا | Installation & Usage
